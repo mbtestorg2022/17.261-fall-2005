@@ -12,17 +12,366 @@ NB: The numbers in \[square brackets\] indicate the rank-ordering in a citation 
 Readings by Session
 -------------------
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-|  {{< br >}}{{< br >}} 1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Congressional Elections and Representation {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Miller, Warren, and Donald Stokes. "Constituency influence in Congress." _American Political Science Review_ 57 (1963): 45-56. \[31\] {{< br >}}{{< br >}} Tufte, Edward R. "The relationship between seats and votes in two-party systems." _American Political Science Review_ 67 (1973): 540-54. {{< br >}}{{< br >}} Fiorina, Morris P. _Representatives, Roll Calls, and Constituencies_. Toronto, ON: Lexington Books, 1974, ISBN: 9780669902174. \[15\] {{< br >}}{{< br >}} Fenno, Richard F. "U.S. House members and their constituencies: An exploration." _American Political Science Review_ 71 (1977): 883-917. The booklength treatment is Fiorina, Morris P., and David W. Rohde, eds. _Home Style and Washington Work: Studies of Congressional Politics_. Ann Arbor, MI: University of Michigan Press, 1991. ISBN: 9780472101207. Which you should be familiar with eventually. \[8\] {{< br >}}{{< br >}} Engstrom, Eric J., and Samuel Kernell. "Manufactured responsiveness: The impact of state electoral laws on unified party control of the presidency and House of Representatives, 1840-1940." _American Journal of Political Science_ 49 (2005): 531-549. {{< br >}}{{< br >}} _Additional Readings_ {{< br >}}{{< br >}} Fiorina, Morris P. _Retrospective Voting in American National Elections_. New Haven, CT: Yale University Press, 1981. ISBN: 9780300025576. \[38.5\] {{< br >}}{{< br >}} Jacobson, Gary C. _The Politics of Congressional Elections_. Boston, MA: Little, Brown, 1983. ISBN: 9780316455633. \[15\] {{< br >}}{{< br >}} ———. _The Electoral Origins of Divided Government: Competition in U.S. House Elections, 1946-1988_. Boulder, CO: Westview Press, 1990. ISBN: 9780813309071. \[24\] {{< br >}}{{< br >}} Hibbing, John R., and Elizabeth Theiss-Morse. _Congress as Public Enemy: Public Attitudes Toward American Political Institutions_ Cambridge, UK; New York, NY: Cambridge University Press, 1995. ISBN: 9780521483360. \[38.5\] {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Congressional Candidates {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Downs, Anthony. Chapter 8 in _An Economic Theory of Democracy._ New York, NY: Harper, 1957. \[15\] {{< br >}}{{< br >}} Jacobson, Gary C., and Samuel Kernell. _Strategy and Choice in Congressional Elections_. New Haven, CT: Yale University Press, 1981. ISBN: 9780300026900. \[38.5\] {{< br >}}{{< br >}} Ansolabehere, Stephen, James M. Snyder, Jr., and Charles Stewart III. "Old voters, new voters, and the personal vote: Using redistricting to measure the incumbency advantage." _American Journal of Political Science_ 44 (2000): 17-34. {{< br >}}{{< br >}} ———. "Candidate positioning in U.S. House elections." _American Journal of Political Science_ 45 (2001): 136-59. {{< br >}}{{< br >}} Carson, Jamie L., and Jason M. Roberts. "Strategic politicians and U.S. House Elections, 1874-1914." _Journal of Politics_ 67 (2005): 474-496. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Committees {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Fenno, Richard F. Chapters 1-4 in _Congressmen in Committees._ Boston, MA: Little, Brown, 1973. \[15\] {{< br >}}{{< br >}} Shepsle, Kenneth A., and Barry R. Weingast. "Institutional arrangements and equilibrium in multidimensional voting models." _American Journal of Political Science_ 23 (1979): 27-59. \[38.5\] {{< br >}}{{< br >}} ———. "The institutional foundations of committee power." _American Political Science Review_ 81 (1987): 85-127. \[24\] {{< br >}}{{< br >}} Weingast, Barry R., and William J. Marshall. "The industrial organization of Congress: Or, why legislatures, like firms, are not organized as markets." _Journal of Political Economy_ 96 (1988): 132-163. \[48.5\] {{< br >}}{{< br >}} Krehbiel, Keith. _Information and Legislative Organization._ Ann Arbor, MI: University of Michigan Press, 1991. ISBN: 9780472094608. \[8\] {{< br >}}{{< br >}} Aldrich, John H., and David W. Rohde."The Republican revolution and the House Appropriations Committee." _Journal of Politics_ 62 (2000): 1-33. {{< br >}}{{< br >}} _Additional Readings_ {{< br >}}{{< br >}} Gilligan, Thomas W., and Keith Krehbiel. "Collective decisionmaking and standing committees: An informational rationale for restrictive amendment procedures." _Journal of Law, Economics, and Organization_ 3 (1987): 287-335. \[31\] {{< br >}}{{< br >}} Hall, Richard L., and Frank W. Wayman. "Buying time: Moneyed interests and the mobilization of bias in congressional committees." _American Political Science Review_ 84 (1990): 797-820. \[24\] {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Parties and Leadership I {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Froman, Lewis A. Jr., and Randall B. Ripley."Conditions for party leadership: The case of the House Democrats." _American Political Science Review_ 59 (1965): 52-63. \[38.5\] {{< br >}}{{< br >}} Nelson, Garrison. "Partisan patterns of House leadership change, 1789-1977." _American Political Science Review_ 71 (1977): 918-939. {{< br >}}{{< br >}} Brady, David W., Joseph Cooper, and Patricia A. Hurley. "The decline of party in the United State House of Representatives, 1887-1968." _Legislative Studies Quarterly_ 4 (1979): 381-407. {{< br >}}{{< br >}} Cooper, Joseph, and David W. Brady. "Institutional context and leadership style: The House from Cannon to Rayburn." _American Political Science Review_ 75 (1981): 411-425. \[15\] {{< br >}}{{< br >}} Brady, David W. "A reevaluation of realignment in American politics: Evidence from the House of Representatives." _American Political Science Review_ 79 (1985): 28-49. {{< br >}}{{< br >}} Rohde, David W. _Parties and Leaders in the Post-reform House of Representatives_. Chicago, IL: University of Chicago Press, 1991. ISBN: 9780226724072. \[2\] {{< br >}}{{< br >}} Aldrich, John. _Why Parties?: The Origin and Transformation of Political Parties in America_. Chicago, IL: University of Chicago Press, 1995. ISBN: 9780226012728. \[5.5\] {{< br >}}{{< br >}} _Additional Readings_ {{< br >}}{{< br >}} Sinclair, Barbara. _Legislators, Leaders, and Lawmaking: The U.S. House of Representatives in the Postreform Era_. Baltimore, MD: Johns Hopkins University Press, 1995. ISBN: 9780801849558. \[8\] {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 5 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Parties and Leadership II {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Cox, Gary W., and Mathew D. McCubbins. _Legislative Leviathan._ Berkeley, CA: University of California Press, 1993. ISBN: 9780520072206. \[1\] {{< br >}}{{< br >}} Krehbiel, Keith. "Where's the party?" _British Journal of Political Science_ 23 (1993): 235-266. \[11\] {{< br >}}{{< br >}} Schickler, Eric, and Andrew Rich. "Controlling the floor: Parties as procedural coalitions in the House." _American Journal of Political Science_ 41 (1997): 1340-1375. \[15\] {{< br >}}{{< br >}} Binder, Sarah A., Eric D. Lawrence, and Forrest Maltzman."Uncovering the hidden effect of party." _Journal of Politics_ 61 (1999): 815-831. \[48.5\] {{< br >}}{{< br >}} Snyder, James M., Jr., and Timothy Groseclose. "Estimating party influence in congressional roll call voting." _American Journal of Political Science_ 44 (2000): 193-211. \[38.5\] {{< br >}}{{< br >}} Ansolabehere, Stephen, James M. Snyder, and Charles Stewart III. "The effects of party and preferences on congressional roll-call voting." _Legislative Studies Quarterly_ 26 (2001): 533-72. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 6 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Decisionmaking and Rules {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Clausen, Aage. Chapters 1-3 in _How Congressmen Decide._ New York, NY: Palgrave Macmillan, 1973. ISBN: 9780312394455. \[24\] {{< br >}}{{< br >}} Kingdon, John. Chapters 1-8 in _Congressmen's Voting Decisions._ New York, NY: Harper and Row, 1973. ISBN: 9780060436551. \[48.5\] {{< br >}}{{< br >}} Asher, Herbert B., and Herbert F. Weisberg. "Voting change in Congress: Some dynamic perspectives on an evolutionary process." _American Journal of Political Science_ 22 (1978): 395-425. {{< br >}}{{< br >}} Wright, John R. "PACS, contributions, and roll calls: An organizational perspective." _American Political Science Review_ 79 (1985): 400-414. {{< br >}}{{< br >}} Jackson, John E. "Ideology, interest group scores, and legislative votes." _American Journal of Political Science_ 36 (1992): 805-823. {{< br >}}{{< br >}} Krehbiel, Keith. _Pivotal Politics._ Chicago, IL: University of Chicago Press, 1998. ISBN: 9780226452722. \[5.5\] {{< br >}}{{< br >}} ———. "Restrictive rules reconsidered." _American Journal of Political Science_ 62 (1997): 144-168. \[15\] {{< br >}}{{< br >}} _Additional Readings_ {{< br >}}{{< br >}} Duncan Black. _The Theory of Committees and Elections_. Cambridge, UK: Cambridge University Press, 1958, 1963. \[38.5\] {{< br >}}{{< br >}} Poole, Keith T., and Howard Rosenthal. "Ideology, party, and voting in the United States Congress 1959-1980." _American Political Science Review_ 79 (1985): 373-399. \[24\] {{< br >}}{{< br >}} Smith, Steven S. _Call to Order: Floor Politics in the House and Senate._ Washington, DC: Brookings Institution, 1989. ISBN: 9780815780137. \[24\] {{< br >}}{{< br >}} Bond, Jon R., and Richard Fleisher. _The President in the Legislative Arena_. Chicago, IL: University of Chicago Press, 1992, 1992. ISBN: 9780226064109. \[48.5\] {{< br >}}{{< br >}} Poole, Keith T., and Howard Rosenthal. "Patterns of congressional voting." _American Journal of Political Science_ 35 (1991): 228-278. \[24\] {{< br >}}{{< br >}} Snyder, James M., Jr. "Artificial extremism in interest group ratings." _Legislative Studies Quarterly_ 17 (1992): 319-342. \[38.5\] {{< br >}}{{< br >}} Jackson, John E., and John W. Kingdon. "Ideology, interest group scores, and legislative votes." _American Journal of Political Science_ 36 (1993): 805-823. \[48.5\] {{< br >}}{{< br >}} Binder, Sarah A., and Steven S. Smith. _Politics or Principle? Filibustering in the United States Senate._ Washington, DC: Brookings Institution, 1996. ISBN: 9780815709510. \[31\] {{< br >}}{{< br >}} Heckman, James J., and James M. Snyder, Jr. "Linear probability models of the demand for attributes with an empirical application to estimating the preferences of legislators." _Rand Journal of Economics_ 28, special issue (1997): S142-S189. \[31\] {{< br >}}{{< br >}} Cox, Gary W., and Mathew D. McCubbins. "Toward a theory of legislative rules changes: Assessing Schickler and Rich's evidence." _American Journal of Political Science_ 41 (1997): 1376-1386. \[48.5\] {{< br >}}{{< br >}} Dion, Douglas, and John D. Huber. "Sense and Sensibility: The role of rules." _American Journal of Political Science_ 41 (1997): 945-957. \[48.5\] {{< br >}}{{< br >}} Groseclose, Timothy, Steven Levitt, and James M. Snyder, Jr. "Comparing interest group scores across time and chambers: Adjusted ADA scores for the U.S. Congress." _American Political Science Review_ 93 (1999): 33-50. \[10\] {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 7 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} History {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Poole, Keith T., and Howard Rosenthal. _Congress: A political-economic History of Roll Call Voting_. New York, NY: Oxford University Press, 1997. ISBN: 9780195055771. \[3\] {{< br >}}{{< br >}} Polsby, Nelson W. "The institutionalization of the U.S. House of Representatives." _American Political Science Review_ 62 (1968): 144-168. \[48.5\] {{< br >}}{{< br >}} Stewart, Charles III, and Barry R. Weingast. "Stacking the Senate, changing the nation: Republican rotten boroughs, statehood politics, and American Political Development." _Studies in American Political Development_ (1992): 223-71. {{< br >}}{{< br >}} Schickler, Eric. _Disjointed pluralism: Institutional Innovation and Development of the U.S. Congress._ Princeton, NJ: Princeton University Press, 2001. ISBN: 9780691049250. {{< br >}}{{< br >}} Schickler, Eric, and Gregory Wawro. "Where's the Pivot?: Obstruction and Lawmaking in the Pre-cloture Senate." _American Journal of Political Science_ 48 (2004): 758-774. {{< br >}}{{< br >}} _Additional Readings_ {{< br >}}{{< br >}} Brady, David W. _Critical Elections and Congressional Policymaking._ Stanford, CA: Stanford University Press, 1988. ISBN: 9780804714426. \[48.5\] {{< br >}}{{< br >}} Binder, Sarah A. _Minority Rights, Majority Rule: Partisanship and the Development of Congress._ Cambridge, UK; New York, NY: Cambridge University Press, 1997. ISBN: 9780521587921. \[24\] {{< br >}}{{< br >}} Dion, G. Douglas. _Turning the Legislative Thumbscrew: Minority Rights and Procedural Change in Legislative Politics_. Ann Arbor, MI: University of Michigan Press, 1997. ISBN: 9780472108206. \[24\] {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 8 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Paper Workshop {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 9 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Some Classic General Works {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Mayhew, David. _Congress: The Electoral Connection._ New Haven, CT: Yale University Press, 2004. ISBN: 9780300105872. \[4\] {{< br >}}{{< br >}} Wilson, Woodrow. _Congressional Government._ New Brunswick, NJ: Transaction Publishers, 2002. ISBN: 9780765809285. {{< br >}}{{< br >}} Arnold, R. Douglas. _The Logic of Congressional Action._ New Haven, CT: Yale University Press, 1990. ISBN: 9780300048346.\[19\] {{< br >}}{{< br >}} _Additional Readings_ {{< br >}}{{< br >}} Mayhew, David R. _Divided We Govern_. New Haven, CT: Yale University Press, 1991. ISBN: 9780300048353. \[38.5\] {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Congressional Elections and Representation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Miller, Warren, and Donald Stokes. "Constituency influence in Congress." _American Political Science Review_ 57 (1963): 45-56. \[31\]
+
+Tufte, Edward R. "The relationship between seats and votes in two-party systems." _American Political Science Review_ 67 (1973): 540-54.
+
+Fiorina, Morris P. _Representatives, Roll Calls, and Constituencies_. Toronto, ON: Lexington Books, 1974, ISBN: 9780669902174. \[15\]
+
+Fenno, Richard F. "U.S. House members and their constituencies: An exploration." _American Political Science Review_ 71 (1977): 883-917. The booklength treatment is Fiorina, Morris P., and David W. Rohde, eds. _Home Style and Washington Work: Studies of Congressional Politics_. Ann Arbor, MI: University of Michigan Press, 1991. ISBN: 9780472101207. Which you should be familiar with eventually. \[8\]
+
+Engstrom, Eric J., and Samuel Kernell. "Manufactured responsiveness: The impact of state electoral laws on unified party control of the presidency and House of Representatives, 1840-1940." _American Journal of Political Science_ 49 (2005): 531-549.
+
+_Additional Readings_
+
+Fiorina, Morris P. _Retrospective Voting in American National Elections_. New Haven, CT: Yale University Press, 1981. ISBN: 9780300025576. \[38.5\]
+
+Jacobson, Gary C. _The Politics of Congressional Elections_. Boston, MA: Little, Brown, 1983. ISBN: 9780316455633. \[15\]
+
+———. _The Electoral Origins of Divided Government: Competition in U.S. House Elections, 1946-1988_. Boulder, CO: Westview Press, 1990. ISBN: 9780813309071. \[24\]
+
+Hibbing, John R., and Elizabeth Theiss-Morse. _Congress as Public Enemy: Public Attitudes Toward American Political Institutions_ Cambridge, UK; New York, NY: Cambridge University Press, 1995. ISBN: 9780521483360. \[38.5\]
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Congressional Candidates
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Downs, Anthony. Chapter 8 in _An Economic Theory of Democracy._ New York, NY: Harper, 1957. \[15\]
+
+Jacobson, Gary C., and Samuel Kernell. _Strategy and Choice in Congressional Elections_. New Haven, CT: Yale University Press, 1981. ISBN: 9780300026900. \[38.5\]
+
+Ansolabehere, Stephen, James M. Snyder, Jr., and Charles Stewart III. "Old voters, new voters, and the personal vote: Using redistricting to measure the incumbency advantage." _American Journal of Political Science_ 44 (2000): 17-34.
+
+———. "Candidate positioning in U.S. House elections." _American Journal of Political Science_ 45 (2001): 136-59.
+
+Carson, Jamie L., and Jason M. Roberts. "Strategic politicians and U.S. House Elections, 1874-1914." _Journal of Politics_ 67 (2005): 474-496.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Committees
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Fenno, Richard F. Chapters 1-4 in _Congressmen in Committees._ Boston, MA: Little, Brown, 1973. \[15\]
+
+Shepsle, Kenneth A., and Barry R. Weingast. "Institutional arrangements and equilibrium in multidimensional voting models." _American Journal of Political Science_ 23 (1979): 27-59. \[38.5\]
+
+———. "The institutional foundations of committee power." _American Political Science Review_ 81 (1987): 85-127. \[24\]
+
+Weingast, Barry R., and William J. Marshall. "The industrial organization of Congress: Or, why legislatures, like firms, are not organized as markets." _Journal of Political Economy_ 96 (1988): 132-163. \[48.5\]
+
+Krehbiel, Keith. _Information and Legislative Organization._ Ann Arbor, MI: University of Michigan Press, 1991. ISBN: 9780472094608. \[8\]
+
+Aldrich, John H., and David W. Rohde."The Republican revolution and the House Appropriations Committee." _Journal of Politics_ 62 (2000): 1-33.
+
+_Additional Readings_
+
+Gilligan, Thomas W., and Keith Krehbiel. "Collective decisionmaking and standing committees: An informational rationale for restrictive amendment procedures." _Journal of Law, Economics, and Organization_ 3 (1987): 287-335. \[31\]
+
+Hall, Richard L., and Frank W. Wayman. "Buying time: Moneyed interests and the mobilization of bias in congressional committees." _American Political Science Review_ 84 (1990): 797-820. \[24\]
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Parties and Leadership I
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Froman, Lewis A. Jr., and Randall B. Ripley."Conditions for party leadership: The case of the House Democrats." _American Political Science Review_ 59 (1965): 52-63. \[38.5\]
+
+Nelson, Garrison. "Partisan patterns of House leadership change, 1789-1977." _American Political Science Review_ 71 (1977): 918-939.
+
+Brady, David W., Joseph Cooper, and Patricia A. Hurley. "The decline of party in the United State House of Representatives, 1887-1968." _Legislative Studies Quarterly_ 4 (1979): 381-407.
+
+Cooper, Joseph, and David W. Brady. "Institutional context and leadership style: The House from Cannon to Rayburn." _American Political Science Review_ 75 (1981): 411-425. \[15\]
+
+Brady, David W. "A reevaluation of realignment in American politics: Evidence from the House of Representatives." _American Political Science Review_ 79 (1985): 28-49.
+
+Rohde, David W. _Parties and Leaders in the Post-reform House of Representatives_. Chicago, IL: University of Chicago Press, 1991. ISBN: 9780226724072. \[2\]
+
+Aldrich, John. _Why Parties?: The Origin and Transformation of Political Parties in America_. Chicago, IL: University of Chicago Press, 1995. ISBN: 9780226012728. \[5.5\]
+
+_Additional Readings_
+
+Sinclair, Barbara. _Legislators, Leaders, and Lawmaking: The U.S. House of Representatives in the Postreform Era_. Baltimore, MD: Johns Hopkins University Press, 1995. ISBN: 9780801849558. \[8\]
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+5
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Parties and Leadership II
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Cox, Gary W., and Mathew D. McCubbins. _Legislative Leviathan._ Berkeley, CA: University of California Press, 1993. ISBN: 9780520072206. \[1\]
+
+Krehbiel, Keith. "Where's the party?" _British Journal of Political Science_ 23 (1993): 235-266. \[11\]
+
+Schickler, Eric, and Andrew Rich. "Controlling the floor: Parties as procedural coalitions in the House." _American Journal of Political Science_ 41 (1997): 1340-1375. \[15\]
+
+Binder, Sarah A., Eric D. Lawrence, and Forrest Maltzman."Uncovering the hidden effect of party." _Journal of Politics_ 61 (1999): 815-831. \[48.5\]
+
+Snyder, James M., Jr., and Timothy Groseclose. "Estimating party influence in congressional roll call voting." _American Journal of Political Science_ 44 (2000): 193-211. \[38.5\]
+
+Ansolabehere, Stephen, James M. Snyder, and Charles Stewart III. "The effects of party and preferences on congressional roll-call voting." _Legislative Studies Quarterly_ 26 (2001): 533-72.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+6
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Decisionmaking and Rules
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Clausen, Aage. Chapters 1-3 in _How Congressmen Decide._ New York, NY: Palgrave Macmillan, 1973. ISBN: 9780312394455. \[24\]
+
+Kingdon, John. Chapters 1-8 in _Congressmen's Voting Decisions._ New York, NY: Harper and Row, 1973. ISBN: 9780060436551. \[48.5\]
+
+Asher, Herbert B., and Herbert F. Weisberg. "Voting change in Congress: Some dynamic perspectives on an evolutionary process." _American Journal of Political Science_ 22 (1978): 395-425.
+
+Wright, John R. "PACS, contributions, and roll calls: An organizational perspective." _American Political Science Review_ 79 (1985): 400-414.
+
+Jackson, John E. "Ideology, interest group scores, and legislative votes." _American Journal of Political Science_ 36 (1992): 805-823.
+
+Krehbiel, Keith. _Pivotal Politics._ Chicago, IL: University of Chicago Press, 1998. ISBN: 9780226452722. \[5.5\]
+
+———. "Restrictive rules reconsidered." _American Journal of Political Science_ 62 (1997): 144-168. \[15\]
+
+_Additional Readings_
+
+Duncan Black. _The Theory of Committees and Elections_. Cambridge, UK: Cambridge University Press, 1958, 1963. \[38.5\]
+
+Poole, Keith T., and Howard Rosenthal. "Ideology, party, and voting in the United States Congress 1959-1980." _American Political Science Review_ 79 (1985): 373-399. \[24\]
+
+Smith, Steven S. _Call to Order: Floor Politics in the House and Senate._ Washington, DC: Brookings Institution, 1989. ISBN: 9780815780137. \[24\]
+
+Bond, Jon R., and Richard Fleisher. _The President in the Legislative Arena_. Chicago, IL: University of Chicago Press, 1992, 1992. ISBN: 9780226064109. \[48.5\]
+
+Poole, Keith T., and Howard Rosenthal. "Patterns of congressional voting." _American Journal of Political Science_ 35 (1991): 228-278. \[24\]
+
+Snyder, James M., Jr. "Artificial extremism in interest group ratings." _Legislative Studies Quarterly_ 17 (1992): 319-342. \[38.5\]
+
+Jackson, John E., and John W. Kingdon. "Ideology, interest group scores, and legislative votes." _American Journal of Political Science_ 36 (1993): 805-823. \[48.5\]
+
+Binder, Sarah A., and Steven S. Smith. _Politics or Principle? Filibustering in the United States Senate._ Washington, DC: Brookings Institution, 1996. ISBN: 9780815709510. \[31\]
+
+Heckman, James J., and James M. Snyder, Jr. "Linear probability models of the demand for attributes with an empirical application to estimating the preferences of legislators." _Rand Journal of Economics_ 28, special issue (1997): S142-S189. \[31\]
+
+Cox, Gary W., and Mathew D. McCubbins. "Toward a theory of legislative rules changes: Assessing Schickler and Rich's evidence." _American Journal of Political Science_ 41 (1997): 1376-1386. \[48.5\]
+
+Dion, Douglas, and John D. Huber. "Sense and Sensibility: The role of rules." _American Journal of Political Science_ 41 (1997): 945-957. \[48.5\]
+
+Groseclose, Timothy, Steven Levitt, and James M. Snyder, Jr. "Comparing interest group scores across time and chambers: Adjusted ADA scores for the U.S. Congress." _American Political Science Review_ 93 (1999): 33-50. \[10\]
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+7
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+History
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Poole, Keith T., and Howard Rosenthal. _Congress: A political-economic History of Roll Call Voting_. New York, NY: Oxford University Press, 1997. ISBN: 9780195055771. \[3\]
+
+Polsby, Nelson W. "The institutionalization of the U.S. House of Representatives." _American Political Science Review_ 62 (1968): 144-168. \[48.5\]
+
+Stewart, Charles III, and Barry R. Weingast. "Stacking the Senate, changing the nation: Republican rotten boroughs, statehood politics, and American Political Development." _Studies in American Political Development_ (1992): 223-71.
+
+Schickler, Eric. _Disjointed pluralism: Institutional Innovation and Development of the U.S. Congress._ Princeton, NJ: Princeton University Press, 2001. ISBN: 9780691049250.
+
+Schickler, Eric, and Gregory Wawro. "Where's the Pivot?: Obstruction and Lawmaking in the Pre-cloture Senate." _American Journal of Political Science_ 48 (2004): 758-774.
+
+_Additional Readings_
+
+Brady, David W. _Critical Elections and Congressional Policymaking._ Stanford, CA: Stanford University Press, 1988. ISBN: 9780804714426. \[48.5\]
+
+Binder, Sarah A. _Minority Rights, Majority Rule: Partisanship and the Development of Congress._ Cambridge, UK; New York, NY: Cambridge University Press, 1997. ISBN: 9780521587921. \[24\]
+
+Dion, G. Douglas. _Turning the Legislative Thumbscrew: Minority Rights and Procedural Change in Legislative Politics_. Ann Arbor, MI: University of Michigan Press, 1997. ISBN: 9780472108206. \[24\]
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+8
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Paper Workshop
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+9
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Some Classic General Works
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Mayhew, David. _Congress: The Electoral Connection._ New Haven, CT: Yale University Press, 2004. ISBN: 9780300105872. \[4\]
+
+Wilson, Woodrow. _Congressional Government._ New Brunswick, NJ: Transaction Publishers, 2002. ISBN: 9780765809285.
+
+Arnold, R. Douglas. _The Logic of Congressional Action._ New Haven, CT: Yale University Press, 1990. ISBN: 9780300048346.\[19\]
+
+_Additional Readings_
+
+Mayhew, David R. _Divided We Govern_. New Haven, CT: Yale University Press, 1991. ISBN: 9780300048353. \[38.5\]
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The 20 Most Important Books About Congress to have Read to Understand Contemporary Scholarship
 ----------------------------------------------------------------------------------------------
